@@ -1,6 +1,6 @@
 # Pierre LAURENT ( [LinkedIn](https://www.linkedin.com/in/pierre-laurent-029aa1209/) • 37 repositories • 238 contributions )
 ![](/fond.png)
-***
+### Dernier projet *public* : [Course Kronos](https://github.com/PierreLAURENT94/MiniProj2)
 ## Mes principales Technologies
 ### Ingénierie logiciel
 * [Node.js](https://nodejs.org/en/)
