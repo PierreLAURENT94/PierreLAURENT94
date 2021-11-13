@@ -1,4 +1,4 @@
-# Pierre LAURENT ( [LinkedIn](https://www.linkedin.com/in/pierre-laurent-029aa1209/) • 37 repositories )
+# Pierre LAURENT ( [LinkedIn](https://www.linkedin.com/in/pierre-laurent-029aa1209/) • 37 repositories • 238 contributions )
 ![](/fond.png)
 ***
 ## Mes principales Technologies
