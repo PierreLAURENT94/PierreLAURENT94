@@ -1,6 +1,7 @@
 # Pierre LAURENT ( [LinkedIn](https://www.linkedin.com/in/pierre-laurent-029aa1209/) • 37 repositories • 238 contributions )
 ![](/fond.png)
 ### *Dernier projet public : [Course Kronos](https://github.com/PierreLAURENT94/MiniProj2)*
+### *Dernière compétition : [SNIR Cup 2021 - 3h](https://github.com/PierreLAURENT94/SNIR_Cup)*
 ***
 ## Mes principales Technologies
 ### Ingénierie logiciel
