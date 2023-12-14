@@ -1,4 +1,4 @@
-# Pierre LAURENT ( [LinkedIn](https://www.linkedin.com/in/pierre-laurent-029aa1209/) • 44 repositories • 293 contributions )
+<!---# Pierre LAURENT ( [LinkedIn](https://www.linkedin.com/in/pierre-laurent-029aa1209/) • 44 repositories • 293 contributions )
 ![](/fond.png)
 ### *Dernier projet public : [Course Kronos](https://github.com/PierreLAURENT94/MiniProj2)*
 ### *Dernière compétition : [SNIR Cup 2021 - 3h](https://github.com/PierreLAURENT94/SNIR_Cup)*
@@ -22,3 +22,4 @@
 * [Inkscape (Dessin vectoriel)](https://inkscape.org/fr/)
 * [FreeCAD (Dessin industriel)](https://www.freecadweb.org/index.php)
 * [Ultimaker Cura (Impression 3D, ici Anet A8)](https://ultimaker.com/fr/software/ultimaker-cura)
+--->
